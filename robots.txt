@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hityamamura.github.io/taiwaryoku-college/sitemap.xml
